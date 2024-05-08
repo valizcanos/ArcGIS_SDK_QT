@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>MapaBaseWebForm.qml</file>
+    </qresource>
+</RCC>
