@@ -1,0 +1,9 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "files.associations": {
+        "*.rmd": "markdown",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp"
+    }
+}
