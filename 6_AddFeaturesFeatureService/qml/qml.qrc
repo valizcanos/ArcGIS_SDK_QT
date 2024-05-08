@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>AddFeaturesFeatureServiceForm.qml</file>
+    </qresource>
+</RCC>
